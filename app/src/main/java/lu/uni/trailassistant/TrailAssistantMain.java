@@ -28,7 +28,7 @@ public class TrailAssistantMain extends AppCompatActivity {
             }
         });
 
-        Toast.makeText(this, "Feature1", Toast.LENGTH_LONG).show();
+        //Toast.makeText(this, "Feature1", Toast.LENGTH_LONG).show();
     }
 
     @Override
